@@ -23,7 +23,7 @@ export const Header = () => {
             width={60}
           />
           <h1 className="text-2xl font-extrabold text-violet-700 tracking-wide">
-            MundoQuechua
+            MundoLatam
           </h1>
         </div>
         <ClerkLoading>

@@ -19,7 +19,7 @@ export default function Home() {
       </div>
       <div className="flex flex-col items-center gap-y-8">
         <h1 className="text-xl lg:text-3xl font-bold text-neutral-600 max-w-[480px] text-center">
-          Aprende, Practica y Domina el Quechua Chanka
+          Aprende, Practica y Domina los idiomas dominantes en America del Sur
         </h1>
         <div className="flex flex-col items-center gap-y-3 max-w-[350px] h-full">
           <ClerkLoading>
